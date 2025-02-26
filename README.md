@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tonmoy Kumar Sen</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C3FF&center=true&width=600&lines=%F0%9F%91%8B%2CHi+I'm;Tonmoy+Kumar+Sen;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
