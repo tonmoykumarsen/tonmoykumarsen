@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me  
-🔹 I'm a Web Developer specializing in **Laravel, PHP,Bootstrap, Jquery and Javascript**.  
+🔹 I'm a Web Developer specializing in **React, Laravel, PHP,Bootstrap & Tailwind and Javascript**.  
 🔹 I enjoy building modern, responsive, and scalable applications.  
 🔹 Passionate about **learning new technologies** and improving my **coding skills**.  
 
@@ -19,7 +19,7 @@
 
 ### 🛠️ Technologies & Skills  
 - 💻 **Languages:** JavaScript,PHP 
-- 🌐 **Frontend:** HTML, CSS, Bootstrap  
+- 🌐 **Frontend:** HTML, CSS, Bootstrap,Tailwind,React  
 - 🏗 **Backend:** Laravel  
 - 🛢 **Databases:** MySQL, MSSQL  
 - ⚙ **Other Tools:** Git, GitHub, VS Code, cPanel, API Development  
