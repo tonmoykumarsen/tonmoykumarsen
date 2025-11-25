@@ -47,8 +47,9 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoykumarsen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=tonmoykumarsen&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
