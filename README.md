@@ -21,7 +21,7 @@
 
 ### 🛠️ Technologies & Skills  
 - 💻 **Languages:** JavaScript, HTML, CSS  
-- 🌐 **Frontend:** React.js, Next.js, Tailwind CSS, DaisyUI, Bootstrap  
+- 🌐 **Frontend:** React.js, Tailwind CSS, DaisyUI, Bootstrap  
 - 🏗 **State Management & Tools:** Context API
 - ⚡ **UI & Animations:** Framer Motion, React Spring  
 - 🛢 **Backend (for integration):** PHP, Laravel, Node.js (basic)  
@@ -29,7 +29,7 @@
 ---
 
 ### 📚 Currently Learning  
-- **Advanced React.js & Next.js**  
+- **Advanced React.js &  **  
 - **TypeScript & Tailwind Advanced Patterns**  
 - **Headless UI & DaisyUI Components**  
 - **Modern Frontend Architecture & Performance Optimization**  
